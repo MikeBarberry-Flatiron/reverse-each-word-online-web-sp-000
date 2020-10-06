@@ -1,9 +1,10 @@
 def reverse_each_word(string)
-  string.split(" ")
+  string.each do
+    split(" ")
 end
 
 
-puts reverse_each_word("I am a good boy").typeof
+puts reverse_each_word("I am a good boy")
 
 
 # change string into array
