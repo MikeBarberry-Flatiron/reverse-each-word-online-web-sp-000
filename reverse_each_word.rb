@@ -6,7 +6,7 @@ def reverse_each_word(string)
 end
 
 
-puts reverse_each_word(["I", "am", "a", "good", "boy"])
+puts reverse_each_word("I am a good boy")
 
 
 # change string into array
